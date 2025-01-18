@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/developerfolio/static/css/main.46884e76.css",
+    "main.js": "/developerfolio/static/js/main.cb98ef78.js",
+    "static/css/64.bba8fa55.chunk.css": "/developerfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/developerfolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.2cf81b97.chunk.css": "/developerfolio/static/css/769.2cf81b97.chunk.css",
+    "static/js/769.e21717de.chunk.js": "/developerfolio/static/js/769.e21717de.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/developerfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/developerfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/toeflLogo.png": "/developerfolio/static/media/toeflLogo.bdde4732237adbd8fcbb.png",
+    "static/media/manOnTable.svg": "/developerfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/developerfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/developerfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/henryLogo.png": "/developerfolio/static/media/henryLogo.7f571d99de4d537363ed.png",
+    "static/media/unsLogo.png": "/developerfolio/static/media/unsLogo.60a09a2744574fff2c1f.png",
+    "static/media/skill.svg": "/developerfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/developerfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/developerfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/developerfolio/index.html",
+    "static/media/talksCardBack.svg": "/developerfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.46884e76.css.map": "/developerfolio/static/css/main.46884e76.css.map",
+    "main.cb98ef78.js.map": "/developerfolio/static/js/main.cb98ef78.js.map",
+    "64.bba8fa55.chunk.css.map": "/developerfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/developerfolio/static/js/64.56dc6704.chunk.js.map",
+    "769.2cf81b97.chunk.css.map": "/developerfolio/static/css/769.2cf81b97.chunk.css.map",
+    "769.e21717de.chunk.js.map": "/developerfolio/static/js/769.e21717de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46884e76.css",
+    "static/js/main.cb98ef78.js"
+  ]
+}
